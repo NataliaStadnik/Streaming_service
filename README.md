@@ -29,4 +29,4 @@ _Ccылка на макет в Figma:_ [Streaming-Service](https://www.figma.com
 - Форма для поиска трека с фильтрацией по вводимому значению
 - Плеер с возможностью воспроизведения и остановки выбранного трека, регулировка громкости
 
-<img src='https://github.com/NataliaStadnik/images/blob/main/Изображение%20сделано%2020.10.2024%20в%2023.14.jpeg' alt='streaming-service'/>
+<img src='https://github.com/NataliaStadnik/images/blob/main/streaming-service.jpg' alt='streaming-service'/>
